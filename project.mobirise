@@ -21,13 +21,14 @@
     },
     "versionFirst": "4.3.1",
     "uniqCompNum": 11,
-    "versionPublish": "4.6.2",
+    "versionPublish": "4.7.6",
     "favicon": "",
     "noImageResize": "",
     "scrollAnimation": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
